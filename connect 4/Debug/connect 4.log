@@ -1,0 +1,10 @@
+﻿  Board.cpp
+c:\users\user\desktop\new folder\sherlock\connect 4\source\connect 4\Board.h(3140): warning C4101: 'size': unreferenced local variable
+Board.cpp(10): warning C4551: function call missing argument list
+c:\users\user\desktop\new folder\sherlock\connect 4\source\connect 4\board.h(1500): warning C4715: 'connect4::Board::checkcolorred': not all control paths return a value
+c:\users\user\desktop\new folder\sherlock\connect 4\source\connect 4\board.h(1700): warning C4715: 'connect4::Board::checkcolorgreen': not all control paths return a value
+c:\users\user\desktop\new folder\sherlock\connect 4\source\connect 4\board.h(1899): warning C4715: 'connect4::Board::checkcolor': not all control paths return a value
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Board.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  connect 4.vcxproj -> C:\Users\User\Desktop\New folder\Sherlock\Connect 4\Source\Debug\connect4.exe
+  connect 4.vcxproj -> C:\Users\User\Desktop\New folder\Sherlock\Connect 4\Source\Debug\connect4.pdb (Partial PDB)
